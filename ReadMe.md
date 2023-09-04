@@ -1,6 +1,6 @@
 This is a repository for my data and business analytics project
 
-****Customer Churn with Pyhton****
+****Customer Churn with Python****
 
 ****The customer churn project was done for the SAAS sector. The goal revolved around revolutionizing customer experiences through data analytics. 
 I embarked on a transformative journey, driven by a commitment to significantly reduce customer churn rates while simultaneously elevating customer satisfaction to unprecedented heights.
