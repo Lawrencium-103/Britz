@@ -2,9 +2,9 @@ This is a repository for my data and business analytics project
 
 ****Customer Churn with Pyhton****
 
-** **The customer churn project was done for the SAAS sector. The goal revolved around revolutionizing customer experiences through data analytics. 
+****The customer churn project was done for the SAAS sector. The goal revolved around revolutionizing customer experiences through data analytics. 
 I embarked on a transformative journey, driven by a commitment to significantly reduce customer churn rates while simultaneously elevating customer satisfaction to unprecedented heights.
-Through rigorous data analysis, I successfully identified critical churn drivers and implemented targeted interventions, resulting in a notable reduction in customer churn rates and a significant uptick in customer satisfaction scores. This data-powered transformation fostered cross-functional collaboration between me and other team member.** **
+Through rigorous data analysis, I successfully identified critical churn drivers and implemented targeted interventions, resulting in a notable reduction in customer churn rates and a significant uptick in customer satisfaction scores. This data-powered transformation fostered cross-functional collaboration between me and other team member.****
 
 ****By Gender****
 ![image](https://github.com/Lawrencium-103/Britz/assets/51963311/02fca1aa-b9c9-42c9-b4fa-85485b3b966e)
